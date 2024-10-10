@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/04 20:02:39.000.809,=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 21:48:26.510,=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 21:49:41.265,\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\ACPDV.dproj=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/09 21:58:25.569,\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\GitHub\ac-pdv\src\view\acpdv.view.principal.dfm=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/09 21:58:25.569,\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\GitHub\ac-pdv\src\view\acpdv.view.principal.pas=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 21:59:10.700,\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\GitHub\ac-pdv\ACPDV.dproj=\\srv-arq-0\usuarios\joao.saturnino\Meus Documentos\Embarcadero\Studio\Projects\ACPDV.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
